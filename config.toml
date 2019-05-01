@@ -1,4 +1,4 @@
-baseURL = "http://softwarewit.ch/"
+baseURL = "https://softwarewit.ch/"
 languageCode = "en-us"
 title = "Software is Witchcraft"
 theme = "minos"
