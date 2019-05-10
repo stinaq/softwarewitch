@@ -2,4 +2,12 @@
 label: basic
 hide_body: false
 fields:
-- type: text
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: body
