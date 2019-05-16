@@ -4,8 +4,10 @@ draft = true
 title = "Magical number enabling Quake III"
 
 +++
-When hardware is not yet up to snuff to run you first person shooter game, such as Quake III, you have to resort to magical numbers. 
+When hardware is not yet up to snuff to run you first person shooter game, such as Quake III, you have to resort to magical numbers.
 
 **0x5F3759DF**
 
-Use it with caution, some side effects can occur if you don't know the dark magical powers behind. [Read upp on the spell beforehand](https://en.wikipedia.org/wiki/Fast_inverse_square_root). 
+Use it with caution, some side effects can occur if you don't know the dark magical powers behind. [Read upp on the spell beforehand](https://en.wikipedia.org/wiki/Fast_inverse_square_root).
+
+![](/uploads/quake_magical_number.png)
