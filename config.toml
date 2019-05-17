@@ -1,4 +1,4 @@
 baseURL = "https://softwarewit.ch/"
 languageCode = "en-us"
 title = "Softwarewitch"
-theme = "minos"
+theme = "hugo-theme-minos"
