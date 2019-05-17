@@ -7,6 +7,6 @@ When hardware is not yet up to snuff to run your first person shooter game, such
 
 **0x5F3759DF**
 
-Use it with caution, some side effects can occur if you don't know the dark magical powers behind. [Read upp on the spell beforehand](https://en.wikipedia.org/wiki/Fast_inverse_square_root).
+Use it with caution, some side effects can occur if you don't know the dark magical powers behind. [Read up on the spell beforehand](https://en.wikipedia.org/wiki/Fast_inverse_square_root).
 
 ![](/uploads/quake_magical_number.png)
